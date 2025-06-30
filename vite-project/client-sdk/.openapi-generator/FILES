@@ -1,0 +1,17 @@
+.openapi-generator-ignore
+apis/AccountsApi.ts
+apis/AdminApi.ts
+apis/BottlesApi.ts
+apis/DefaultApi.ts
+apis/ExampleApi.ts
+apis/index.ts
+index.ts
+models/ControllerMessage.ts
+models/HttputilHTTPError.ts
+models/ModelAccount.ts
+models/ModelAddAccount.ts
+models/ModelAdmin.ts
+models/ModelBottle.ts
+models/ModelUpdateAccount.ts
+models/index.ts
+runtime.ts
