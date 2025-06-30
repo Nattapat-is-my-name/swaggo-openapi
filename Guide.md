@@ -1,22 +1,3 @@
----
-
-## Prerequisites
-
-- Go installed ([https://golang.org/dl/](https://golang.org/dl/))
-- Swag CLI installed:
-  ```bash
-  go install github.com/swaggo/swag/cmd/swag@latest
-````
-
-* OpenAPI Generator CLI installed:
-
-  ```bash
-  brew install openapi-generator
-  ```
-* Node.js or Bun installed for frontend dependencies
-* (Optional) Bun installed ([https://bun.sh](https://bun.sh))
-
----
 
 ## Backend: Generate OpenAPI Spec
 
